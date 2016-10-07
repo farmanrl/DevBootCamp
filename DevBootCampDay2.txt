@@ -1,0 +1,55 @@
+﻿Web Development
+* Web applications can be developed using a wide variety of technologies and frameworks
+* HTML/CSS are the technologies used primarily in nearly all web pages
+* Javascript is a programming language that can extend the functionality of websites
+* Efficient, accessible, compatible, maintainable
+
+
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+* https://www.codecademy.com/courses/html-javascript-css/0/1
+
+
+HTML
+* HTML (HyperText Markup Language) is the standard markup language used to create web pages and its elements form the building blocks of all websites.
+* Elements of websites are defined using tags, which specify the type of content presented
+* Tags assigned attributes, which modify how they present the content\
+* DOM is read by browser to construct web page
+
+
+* https://developer.mozilla.org/en-US/docs/Web/HTML
+* http://www.htmldog.com/guides/html/beginner/
+* https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
+CSS
+* CSS describes the presentation of HTML content - what does it look like?
+   * Layouts, colors, fonts
+* Can be added to HTML using three different techniques, modifying style attribute
+   * Inline - by using the style attribute in HTML elements
+   * Internal - by using a <style> element in the <head> section
+   * External - by using an external CSS file
+
+
+* http://www.htmldog.com/guides/css/beginner/
+* https://developer.mozilla.org/en-US/docs/Web/CSS
+* https://css-tricks.com/
+
+
+HTML/CSS
+* http://learn.shayhowe.com/html-css/
+* https://www.codecademy.com/learn/web
+* https://www.khanacademy.org/computing/computer-programming/html-css
+* http://jgthms.com/web-design-in-4-minutes/
+
+
+JavaScript
+* One of the most common programming languages in the industry
+* Object-oriented, Imperative, and Declarative
+* Prototype-based programming is a style of object-oriented programming in which classes are not explicitly defined, but rather derived by adding properties and methods to an instance of another class or, less frequently, add them to an empty object.
+* A multi-paradigm programming language is a programming language that supports more than one programming paradigm. The central idea of a multiparadigm language is to provide a framework in which programmers can work in a variety of styles, freely intermixing constructs from different paradigms.
+* Dynamic programming language, in computer science, is a class of high-level programming languages which, at runtime, execute many common programming behaviors that static programming languages perform during compilation.
+* JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behaviour.
+* https://www.codecademy.com/learn/javascript
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* http://eloquentjavascript.net/

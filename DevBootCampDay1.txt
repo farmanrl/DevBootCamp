@@ -1,0 +1,76 @@
+﻿Computer Science/Technology
+
+
+* Computer Science is Human
+   * The chart of human progress is parallel to technological trends.
+   * Computers were built by humans, we must tell them what to do, how to think
+* Computers can make our greatest challenges trivial
+* Computer Science is everywhere - across disciplines, fields, forms
+* Technology is an avenue for immediate, meaningful change on a vast scale
+
+
+
+
+
+
+Software Development
+
+
+* Front End/Back End/Full Stack
+   * Front End is what you see
+      * User Interface, Interaction, Experience
+   * Back End is what you get
+      * Servers, databases, storage, authorization
+   * Full Stack is the complete workflow
+      * Specialization is more common, but it’s important to understand flow.
+* Team of designers, engineers, testers, managers, researchers
+
+
+Applications
+
+
+* Self contained programs that are built for users
+* Desktop Applications
+   * Built for Mac/Linux/Windows
+   * Developed for/by platform
+   * Must be installed on machine with correct operating system to run
+* Mobile Applications
+   * iOS - Swift
+      * Developed on Macs
+   * Android - Java
+      * Developed on Windows/Linux/Mac
+   * Need devices for testing
+* Web Applications
+   * Can develop on any platform, accessed through browser
+   * Easily packaged, hosted, distributed
+* For developing applications, target webapp development first
+
+
+GitHub
+* Open Source version control for developers
+* Any project, any programming language, any person
+* Collaborative coding using GitHub repositories and user branches
+* Repositories
+   * A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs.
+* Branches
+   * Branching is the way to work on different versions of a repository at one time.
+   * By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
+* Index
+   * A staging area for your changes to a branch from your local files
+   * You can stage and unstage files here from your commits
+* Local
+   * The local files as read from your computer.
+   * Edit, make changes, then stage and commit to submit changes to branch.
+* Commits
+   * On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+* Pushing
+   * Pushing is the heart of collaboration on GitHub. When you push, you open a pull request, proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+* Merging
+   * In this final step, it’s time to bring your changes together – merging your pulled branch into the master branch.
+
+
+* Walkthrough - http://rogerdudler.github.io/git-guide/
+* IDE - https://try.github.io/
+* Guide - https://guides.github.com/introduction/flow/
+* Tutorials - https://guides.github.com/
+* Reference - https://git-scm.com/docs/gittutorial
