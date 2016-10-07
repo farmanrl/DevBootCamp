@@ -1,6 +1,7 @@
 Developing is fun!
 
 hello
+aloha
 hej
 ohayou
 bonjour
