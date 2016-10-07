@@ -1,0 +1,23 @@
+p {
+    font-size: 48;
+    color: green;
+}
+
+ul {
+    font-size: 32;
+    color: blue;
+    border-width: 3;
+    border-style: dashed;
+}
+
+div {
+    height: 200;
+    width: 100%;
+    background-color: purple
+}
+
+.header div {
+    height: 200;
+    width: 100%;
+    background-color: slategray
+}
