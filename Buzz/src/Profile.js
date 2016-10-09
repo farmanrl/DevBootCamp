@@ -31,8 +31,8 @@ class Profile extends Component {
             {this.props.buzzies}
           </div>
         </div>
-        <button onClick={() => this.handleBuzz()}>
-          <img src="https://www.goodfreephotos.com/albums/vector-images/cartoon-bee-vector-art.png" style={{height: 60}} />
+        <button style={{borderRadius: '50%'}} onClick={() => this.handleBuzz()}>
+          <img src="https://www.goodfreephotos.com/albums/vector-images/cartoon-bee-vector-art.png" role="presentation" style={{height: 60}} />
         </button>
       </div>
     );
